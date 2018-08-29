@@ -1,0 +1,14 @@
+{
+  "name": "Pop-Up Handler",
+  "description": "Automation Framework",
+  "main": "PopUpHandler.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6798.36310",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
